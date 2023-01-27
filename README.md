@@ -1,13 +1,5 @@
 # Power-Bi-HUB Manifacturing Company Financial Report
 
-SUMMARY
-HUB  Manifacturing company focus on its strengths, key customers, and the company’s underlying core values,.
-HUB Manufacturing Co. would increase profit to more than N100m in three years after witnessing over 300% increase in Profit after Tax between 2013 and 2014.
-This report shows the performance of each of our products with respect to the Revenue generated from it and also the Net Profit. 
-It also reports how our products fare in every segment and state where we are present.
-This report includes this summary, Segment, State, and Product overview, 2013 and 2014 Q4 comparison, and Product Taxation across each state and each segment.
-![image](https://user-images.githubusercontent.com/122730173/215056032-c82444d2-1000-4a77-bff2-117b860c06fa.png)
-
 RECOMMENDATION
 
 I recommend that the sales team be appreciated for the increase in sales between 2013 and 2014 so as to encourage them to do more in the coming year.
@@ -33,3 +25,6 @@ More investments should be made in A4 paper as it has the possibility of overtak
 ![TTAXATION 2](https://user-images.githubusercontent.com/122730173/215060301-1dd1e454-6c1f-4894-8f76-16636cb792ea.JPG)
 ![COMPARISON](https://user-images.githubusercontent.com/122730173/215060473-116cd096-1a53-410f-b8d2-3622ce865fc1.JPG)
 ![POWER BI](https://user-images.githubusercontent.com/122730173/215060485-b98a92ef-b5cd-443c-bce9-3015892547a1.JPG)
+
+TOOLS
+POWER BI and Microsoft Poer Point
