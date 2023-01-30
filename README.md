@@ -40,4 +40,4 @@ More investments should be made in A4 paper as it has the possibility of overtak
 
 TOOLS
 
-POWER BI and Microsoft Poer Point
+EXCEL, POWER BI and MS POWER POINT
